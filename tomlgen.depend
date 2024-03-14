@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1710447162 source:/home/lokesaheb/cppprojs/tomlgen/tomlgen.cpp
+	"tomlgen.h"
+
+1710446605 /home/lokesaheb/cppprojs/tomlgen/tomlgen.h
+	<iostream>
+	<vector>
+	<sstream>
+
+1710446963 source:/home/lokesaheb/cppprojs/tomlgen/main.cpp
+	"tomlgen.h"
+
